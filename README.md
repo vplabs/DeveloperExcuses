@@ -1,4 +1,4 @@
-# DeveloperExcuses
+# Developers Excuses
 List top 10 developer's excuses when their program do not work...
 
 1. It works in my dev env
